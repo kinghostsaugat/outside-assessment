@@ -1,0 +1,63 @@
+$bg-color : #ffffff;
+$mobile-width : 350px;
+$desktop-width : 80vw;
+$primary-color : #0F234C;
+$secondry-color: #3057A7;
+$primary-font : "Merriweather Sans",
+sans-serif;
+$secondry-font : 'Roboto', sans-serif;
+$border-color: #ccc;
+$background-color: #f1f1f1;
+$progress-bar-color: #CCCEB7;
+$video-width: 1260;
+$video-height: 540;
+$border-radius: 15px;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideleft {
+  from {
+    opacity: 0;
+    transform: translateX(20%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideRight {
+  from {
+    opacity: 0;
+    transform: translateX(0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(-20%);
+  }
+}
+
+// General styles
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+// Import styles.
+@import "layouts/header";
+@import "layouts/sliders-with-accordian";

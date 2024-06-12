@@ -1,0 +1,16 @@
+{
+    "name": "acf/sliders-with-accordian",
+    "title": "Sliders with accordian",
+    "description": "A custom testimonial block that uses ACF fields.",
+    "style": [ "file:./sliders-with-accordian.scss" ],
+    "category": "Media",
+    "icon": "admin-comments",
+    "keywords": ["accordian", "sliders"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "sliders-with-accordian.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}
