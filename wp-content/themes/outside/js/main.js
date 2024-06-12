@@ -73,6 +73,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 prevEl: '.swiper-button-prev',
             },
         });
+        const theplaynowprodSwiper = new Swiper('.desk-nav .theplaynowproducts', {
+            slidesPerView: 2,
+            navigation: {
+                nextEl: '.theplaynowswiper-button-next',
+                prevEl: '.theplaynowswiper-button-prev',
+            },
+        });
     }
 
     function isSwiperInitialized() {

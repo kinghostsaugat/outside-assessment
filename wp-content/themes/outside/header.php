@@ -275,10 +275,58 @@
 									</ul>
 								</div>
 								<div class="product-carousel">
-									<div class="product">Product 1</div>
-									<div class="product">Product 2</div>
-									<div class="product">Product 3</div>
-									<div class="product">Product 4</div>
+									<div class="feat-head">
+										<h3>Featured Mealtime</h3>
+										<div class="swiper-nav">
+											<div class="swiper-button-prev">
+												<img src="<?php echo get_template_directory_uri() ?>/images/arrow left.svg" alt="image left">
+											</div>
+											<div class="swiper-button-next">
+												<img src="<?php echo get_template_directory_uri() ?>/images/arrow-right.svg" alt="image right">
+											</div>
+										</div>
+									</div>
+									<div class="products">
+										<div class="swiper-wrapper">
+											<div class="swiper-slide product-img-menu">
+												<a href="javascipt:void(0);">
+													<img src="/wp-content/uploads/2024/06/chair.jpg" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>The Chair</h3>
+													</div>
+												</a>
+
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-Big-Bites-Full-Kit-1chopstick-Oatmeal.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>First Bites Full Kit</h3>
+													</div>
+												</a>
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-FirstBites-FullKit-Sage-F1_R2.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>Suction Plate</h3>
+													</div>
+												</a>
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-Little-Cup-1.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>Little Cup</h3>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</li>
@@ -297,9 +345,58 @@
 									</ul>
 								</div>
 								<div class="product-carousel">
-									<div class="product">Product 1</div>
-									<div class="product">Product 2</div>
-									<div class="product">Product 3</div>
+									<div class="feat-head">
+										<h3>Featured Mealtime</h3>
+										<div class="swiper-nav">
+											<div class="swiper-button-prev">
+												<img src="<?php echo get_template_directory_uri() ?>/images/arrow left.svg" alt="image left">
+											</div>
+											<div class="swiper-button-next">
+												<img src="<?php echo get_template_directory_uri() ?>/images/arrow-right.svg" alt="image right">
+											</div>
+										</div>
+									</div>
+									<div class="products">
+										<div class="swiper-wrapper">
+											<div class="swiper-slide product-img-menu">
+												<a href="javascipt:void(0);">
+													<img src="/wp-content/uploads/2024/06/chair.jpg" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>The Chair</h3>
+													</div>
+												</a>
+
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-Big-Bites-Full-Kit-1chopstick-Oatmeal.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>First Bites Full Kit</h3>
+													</div>
+												</a>
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-FirstBites-FullKit-Sage-F1_R2.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>Suction Plate</h3>
+													</div>
+												</a>
+											</div>
+											<div class="swiper-slide product-img-menu">
+												<a href="#">
+													<img src="/wp-content/uploads/2024/06/Product-Little-Cup-1.webp" alt="Image 1">
+													<div class="product-info">
+														<small>BEST SELLER</small>
+														<h3>Little Cup</h3>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</li>
@@ -318,7 +415,6 @@
 								</div>
 								<div class="tabs">
 									<ul class="nav-tabs">
-
 										<li class="nav-item">
 											<button class="nav-link active" id="tab-title-1__0" data-bs-toggle="tab" data-bs-target="#tab-title-1-content__0" type="button">
 												Year 1
@@ -401,34 +497,30 @@
 												</div>
 
 												<div class="baby-years">
-													<a href="/products/the-play-box-16-18-months" class="category text-decoration-none">
-														<div class="category__image">
-															<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-8.png?v=1695841287" data-product-id="6733057392704" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 16-18 Months">
-														</div>
-														<div class="category__title">
-															16-18 Months
-														</div>
+													<div class="category__image">
+														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-8.png?v=1695841287" data-product-id="6733057392704" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 16-18 Months">
+													</div>
+													<div class="category__title">
+														16-18 Months
+													</div>
 												</div>
 
 												<div class="baby-years">
-													<a href="/products/the-play-box-19-21-months" class="category text-decoration-none">
-														<div class="category category__image">
-															<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-9.png?v=1695841270" data-product-id="6733057491008" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 19-21 Months">
-														</div>
-														<div class="category__title">
-															19-21 Months
-														</div>
+													<div class="category category__image">
+														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-9.png?v=1695841270" data-product-id="6733057491008" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 19-21 Months">
+													</div>
+													<div class="category__title">
+														19-21 Months
+													</div>
 												</div>
 
 												<div class="baby-years">
-													<a href="/products/the-play-box-22-24-months" class="category text-decoration-none">
-														<div class="category__image">
-															<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-10.png?v=1695841211" data-product-id="6733057556544" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 22-24 Months">
-														</div>
-														<div class="category__title">
-															22-24 Months
-														</div>
-													</a>
+													<div class="category__image">
+														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-10.png?v=1695841211" data-product-id="6733057556544" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 22-24 Months">
+													</div>
+													<div class="category__title">
+														22-24 Months
+													</div>
 												</div>
 											</div>
 										</div>
@@ -438,15 +530,15 @@
 									<div class="feat-head">
 										<h3>Featured Mealtime</h3>
 										<div class="swiper-nav">
-											<div class="swiper-button-prev">
+											<div class="theplaynowswiper-button-prev">
 												<img src="<?php echo get_template_directory_uri() ?>/images/arrow left.svg" alt="image left">
 											</div>
-											<div class="swiper-button-next">
+											<div class="theplaynowswiper-button-next">
 												<img src="<?php echo get_template_directory_uri() ?>/images/arrow-right.svg" alt="image right">
 											</div>
 										</div>
 									</div>
-									<div class="products">
+									<div class="theplaynowproducts">
 										<div class="swiper-wrapper">
 											<div class="swiper-slide product-img-menu">
 												<a href="javascipt:void(0);">
