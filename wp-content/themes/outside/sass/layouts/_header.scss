@@ -331,10 +331,8 @@
     display: flex;
     column-gap: 40px;
     max-width: $desktop-width;
-    margin-inline: auto;
     padding: 20px 0;
-    margin: 36px 0;
-    justify-content: center;
+    margin: 36px auto 20px auto;
 
     .menu {
       list-style: none;
@@ -345,7 +343,6 @@
 
       .menu-item {
         cursor: pointer;
-        height: 100px;
 
         &>span {
           font-family: $primary-font;
@@ -373,6 +370,10 @@
           font-weight: 500;
         }
 
+        &:has(sup) {
+          margin-top: -6px;
+        }
+
         &:hover {
 
           &>span,
@@ -387,7 +388,7 @@
           position: absolute;
           left: 0;
           right: 0;
-          top: 6%;
+          top: 5.5%;
           background-color: white;
           max-width: $desktop-width;
           margin-inline: auto;

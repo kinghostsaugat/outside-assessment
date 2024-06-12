@@ -321,10 +321,8 @@ body {
   display: flex;
   column-gap: 40px;
   max-width: 1200px;
-  margin-inline: auto;
   padding: 20px 0;
-  margin: 36px 0;
-  justify-content: center;
+  margin: 36px auto 20px auto;
 }
 .desk-nav .main-nav .menu {
   list-style: none;
@@ -335,7 +333,6 @@ body {
 }
 .desk-nav .main-nav .menu .menu-item {
   cursor: pointer;
-  height: 100px;
 }
 .desk-nav .main-nav .menu .menu-item > span {
   font-family: "Merriweather Sans", sans-serif;
@@ -361,6 +358,9 @@ body {
   font-style: italic;
   font-weight: 500;
 }
+.desk-nav .main-nav .menu .menu-item:has(sup) {
+  margin-top: -6px;
+}
 .desk-nav .main-nav .menu .menu-item:hover > span, .desk-nav .main-nav .menu .menu-item:hover > sup {
   border-radius: 100px;
   background-color: #ECF3FF;
@@ -370,7 +370,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  top: 6%;
+  top: 5.5%;
   background-color: white;
   max-width: 1200px;
   margin-inline: auto;
