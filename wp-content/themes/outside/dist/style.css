@@ -232,7 +232,7 @@ body {
 }
 .mobile-nav .mobile-menu .menu ul .submenu ul li {
   margin: 8px 0;
-  font-family: MerriweatherSansRoman;
+  font-family: "Merriweather Sans", sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 21px;
@@ -335,6 +335,7 @@ body {
 }
 .desk-nav .main-nav .menu .menu-item {
   cursor: pointer;
+  height: 100px;
 }
 .desk-nav .main-nav .menu .menu-item > span {
   font-family: "Merriweather Sans", sans-serif;
@@ -369,7 +370,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  top: 5%;
+  top: 6%;
   background-color: white;
   max-width: 1200px;
   margin-inline: auto;
@@ -422,6 +423,17 @@ body {
 }
 .desk-nav .main-nav .menu .menu-item .mega-menu.hovered .submenu ul li span:hover {
   color: #3057A7;
+}
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .submenu ul li span i:after {
+  content: url(fa37fb1270b3a3014a8c.svg);
+  position: absolute;
+  inset: 0;
+  left: auto;
+  right: -20%;
+  transition: transform 0.5s ease;
+}
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .submenu ul li:hover > span > i::after {
+  transform: rotateY(180deg);
 }
 .desk-nav .main-nav .menu .menu-item .mega-menu.hovered .submenu ul li:last-child span:after {
   content: "";
@@ -497,21 +509,22 @@ body {
 .desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row > * {
   flex: 0 0 auto;
 }
-.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .category__image {
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .baby-years .category__image {
   aspect-ratio: 1;
   border-radius: 42px;
   height: 48px;
   width: 48px;
   padding: 7px;
   border: 1px solid #eeedeb;
-  transition: all 0.3s linear;
   margin-inline: auto;
+  transform: rotate(0deg);
+  transition: all 0.3s linear;
 }
-.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .category__image img {
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .baby-years .category__image img {
   width: 100%;
   height: 100%;
 }
-.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .category__title {
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .baby-years .category__title {
   font-size: 14px;
   line-height: 21px;
   letter-spacing: 0.3px;
@@ -523,11 +536,11 @@ body {
   max-width: 84px;
   white-space: nowrap;
 }
-.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .category:hover .category__image {
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .baby-years:hover .category__image {
   border-color: #0F234C;
   transform: rotate(-10deg);
 }
-.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .category:hover .category__title {
+.desk-nav .main-nav .menu .menu-item .mega-menu.hovered .tab-content .tab-pane .row .baby-years:hover .category__title {
   text-underline-offset: 0.3rem;
   text-decoration: underline;
 }

@@ -200,12 +200,12 @@
 								<div class="submenu">
 									<h2>Shop Mealtime</h2>
 									<ul>
-										<li><span>Submenu Item 1</span></li>
-										<li><span>Submenu Item 2</span></li>
-										<li><span>Submenu Item 3</span></li>
-										<li><span>Submenu Item 4</span></li>
-										<li><span>Submenu Item 5</span></li>
-										<li><span>Submenu Item 6</span></li>
+										<li><span>High Chair</span></li>
+										<li><span>Booster</span></li>
+										<li><span>Tableware & Bibs</span></li>
+										<li><span>Mealtime Accessories</span></li>
+										<li><span>Bundle & Save</span></li>
+										<li><span>All Mealtime</span></li>
 									</ul>
 								</div>
 								<div class="product-carousel">
@@ -267,6 +267,7 @@
 						<li class="menu-item"><span>Playtime</span>
 							<div class="mega-menu">
 								<div class="submenu">
+									<h2>Shop Playtime</h2>
 									<ul>
 										<li><span>Submenu Item 1</span></li>
 										<li><span>Submenu Item 2</span></li>
@@ -333,6 +334,7 @@
 						<li class="menu-item"><span>Bathtime</span>
 							<div class="mega-menu">
 								<div class="submenu">
+									<h2>Shop Bathtime</h2>
 									<ul>
 										<li><span>Submenu Item 1</span></li>
 										<li><span>Submenu Item 2</span></li>
@@ -430,55 +432,55 @@
 										<div class="tab-pane fade active show" id="tab-title-1-content__0" role="tabpanel" aria-labelledby="tab-title-1__0">
 											<div class="row">
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-1.png?v=1695846611" data-product-id="6733056704576" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 0-12 Weeks">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-1.webp" data-product-id="6733056704576" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 0-12 Weeks">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														0-12 Weeks
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-2.png?v=1695841262" data-product-id="6733056737344" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 3-4 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-2.webp" data-product-id="6733056737344" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 3-4 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														3-4 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-3.png?v=1695841229" data-product-id="6733057097792" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 5-6 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-3.webp" data-product-id="6733057097792" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 5-6 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														5-6 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-4.png?v=1695841278" data-product-id="6733057163328" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 7-8 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-4.webp" data-product-id="6733057163328" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 7-8 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														7-8 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-5.png?v=1695841238" data-product-id="6733057228864" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 9-10 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-5.png" data-product-id="6733057228864" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 9-10 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														9-10 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-6.png?v=1695841219" data-product-id="6733057261632" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 11-12 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-6.webp" data-product-id="6733057261632" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 11-12 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														11-12 Months
 													</div>
 												</div>
@@ -488,37 +490,37 @@
 										<div class="tab-pane fade" id="tab-title-2-content__0" role="tabpanel" aria-labelledby="tab-title-2__0">
 											<div class="row">
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-7.png?v=1695841254" data-product-id="6733057359936" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 13-15 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-7.webp" data-product-id="6733057359936" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 13-15 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														13-15 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-8.png?v=1695841287" data-product-id="6733057392704" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 16-18 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-8.webp" data-product-id="6733057392704" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 16-18 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														16-18 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-9.png?v=1695841270" data-product-id="6733057491008" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 19-21 Months">
+													<div class="category category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-9.webp" data-product-id="6733057491008" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 19-21 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														19-21 Months
 													</div>
 												</div>
 
 												<div class="baby-years">
-													<div class="category__image">
-														<img src="//www.meetlalo.com/cdn/shop/files/Icon_Play-Box-Shape-10.png?v=1695841211" data-product-id="6733057556544" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 22-24 Months">
+													<div class="category category__image">
+														<img src="/wp-content/uploads/2024/06/Icon_Play-Box-Shape-10.webp" data-product-id="6733057556544" class="object-contain" width="195" height="220" loading="lazy" alt="The Play Box: 22-24 Months">
 													</div>
-													<div class="category__title">
+													<div class="category category__title">
 														22-24 Months
 													</div>
 												</div>
